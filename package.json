@@ -1,0 +1,14 @@
+{
+  "name": "tirthcssjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tnttirth15/tirthcssjs.git",
+  "author": "tnttirth15 <144747780+tnttirth15@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  }
+}
